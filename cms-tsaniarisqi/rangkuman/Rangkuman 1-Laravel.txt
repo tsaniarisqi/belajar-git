@@ -1,0 +1,9 @@
+Laravel merupakan framework berbasis PHP yang open source.
+Laravel membutuhkan instalasi composer dan PHP dengan versi minimal >= 7.2
+Cara membuat project pada laravel composer-project --prefer-dist laravel/laravel namaProject "versilaravel.*"
+Cara menjalankan laravell yaitu:
+1. Masuk ke dalam direktori project laravell
+2. Kemudian jalankan perintah php artisan key:generate
+3. Setelah perintah diatas berhasil, tuliskan perintah berikut php artisan serve
+4. Lalu jika berhasil akan menampilkan pesan berikut, Laravel development server started: http://127.0.0.1:8000
+5. Copy Paste http://127.0.0.1:8000 ke browser, lalu jika berhasil akan muncul tampilan dengan tulisan "Laravel"
